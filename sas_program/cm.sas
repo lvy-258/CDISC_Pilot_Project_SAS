@@ -1,5 +1,5 @@
 /*====================================================================
-Program Name: cm.sas
+Program Name: cm.sas 
 Study: CDISC Pilot 01
 Domain: CM (Concomitant Medications ∫œ≤¢”√“©SDTM”Ú)
 Description: Create SDTM CM domain from raw xpt source data

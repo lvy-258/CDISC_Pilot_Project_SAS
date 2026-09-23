@@ -1,5 +1,5 @@
 /*====================================================================
-Program Name: lb.sas
+Program Name: lb.sas 
 Study: CDISC Pilot 01
 Domain: LB (Laboratory Test Results  µ—È “ºÏ≤ÈSDTM”Ú)
 Description: Create SDTM LB domain from raw xpt source data

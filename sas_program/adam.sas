@@ -1,5 +1,5 @@
 /*=============================================================
-Program: adam.sas
+Program: adam.sas 
 Project: CDISC Pilot 01 Alzheimer
 Purpose: Create ADaM ADSL & ADLB datasets
 Input: raw.DM, raw.LB  

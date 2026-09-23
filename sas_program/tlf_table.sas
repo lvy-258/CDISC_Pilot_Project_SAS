@@ -1,6 +1,6 @@
 
 /*=============================================================
-Program: tlf_table1.sas
+Program: tlf_table1.sas 
 Project: CDISC Pilot 01 Alzheimer
 Purpose: Generate Table1 Baseline Demographics TLF
 Input: raw.adsl

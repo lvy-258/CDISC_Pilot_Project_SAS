@@ -1,6 +1,6 @@
 /*====================================================================
 Program Name: ae.sas
-Study: CDISC Pilot 01
+Study: CDISC Pilot 01 
 Domain: AE (Adverse Event ²»Á¼ÊÂ¼þSDTMÓò)
 Description: Create SDTM AE domain from raw xpt source data
 CDISC SDTM IG version: 3.2

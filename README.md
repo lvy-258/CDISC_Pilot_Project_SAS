@@ -30,7 +30,7 @@ CDISC_Pilot_Project_SAS
 
 
 
-#运行顺序
+#运行顺序  
 1. `import_qc.sas`：读取XPT，SDTM单域+跨域QC检查，输出all_qc查询报告
 2. `adam.sas`：基于SDTM派生ADSL（人口学）、ADLB（实验室）ADaM数据集
 3. `tlf_table.sas`：基于ADSL生成Table1基线人口学汇总表

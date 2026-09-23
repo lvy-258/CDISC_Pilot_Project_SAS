@@ -1,5 +1,5 @@
 /*=============================================================
-Program: qc.sas
+Program: qc.sas 
 Project: CDISC Pilot 01 Alzheimer Study
 Purpose: SDTM Single-domain & Cross-domain QC, generate query list
 Input:  raw DM/VS/LB/AE/CM xpt files

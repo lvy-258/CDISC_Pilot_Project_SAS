@@ -1,5 +1,5 @@
 /*=============================================================
-Program: import_qc.sas
+Program: import_qc.sas 
 Project: CDISC Pilot 01 Alzheimer
 Purpose: Import SDTM XPT files and perform SDTM QC checks
 Input: raw_data DM.xpt VS.xpt LB.xpt AE.xpt CM.xpt

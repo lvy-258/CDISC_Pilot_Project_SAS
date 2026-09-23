@@ -1,6 +1,6 @@
 /*====================================================================
 Program Name: vs.sas
-Study: CDISC Pilot 01
+Study: CDISC Pilot 01 
 Domain: VS (Vital Signs ÉúÃüÌåÕ÷SDTMÓò)
 Description: Create SDTM VS domain from raw xpt source data
 CDISC SDTM IG version: 3.2

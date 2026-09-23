@@ -1,6 +1,6 @@
 /*====================================================================
 Program Name: adsl.sas
-Study: CDISC Pilot 01
+Study: CDISC Pilot 01 
 Domain: ADSL (ADaM Subject-Level Analysis Dataset)
 Description: Create ADSL from SDTM DM
 CDISC ADaM IG version: 1.1

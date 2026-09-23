@@ -1,6 +1,6 @@
 options nodate nonumber nocenter;
 
-/* E盘项目路径 */
+/* E盘项目路径 */ 
 libname raw "E:\CDISC_Pilot_Project_SAS\raw_data";
 
 libname xp_dm xport "E:\CDISC_Pilot_Project_SAS\raw_data\DM.xpt";
