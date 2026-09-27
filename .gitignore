@@ -1,0 +1,10 @@
+# SAS 二进制数据集
+*.sas7bdat
+*.xpt
+*.sas7bcat
+# SAS 日志输出
+*.log
+*.lst
+# 本地临时文件
+*.tmp
+*.bak
